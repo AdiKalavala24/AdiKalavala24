@@ -1,4 +1,5 @@
 # Hello World, I'm Adi
-<alt="banner that says Adi - programmer, has no interests, but still codes sometimes alongside a cartoon illustration of Kuberus">
+## About me
+Adi - programmer, has no interests, but still codes sometimes
 
 ## Knowledge of human-created computer-using languages
