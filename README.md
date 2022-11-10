@@ -1,5 +1,6 @@
 # Hello World, I'm Adi
 Adi - programmer, has no interests, but still codes sometimes
+
 I like to code a simple pygame every once in a while and play it
 
 # 💻 Tech Stack:
