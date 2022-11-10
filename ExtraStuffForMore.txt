@@ -1,0 +1,12 @@
+Some people's ReadME's to look at for inspiration:
+https://github.com/itsZed0/itsZed0/blob/main/README.md
+https://github.com/anuraghazra/anuraghazra
+
+Icons:
+https://github.com/devicons/devicon/tree/master/icons
+https://forthebadge.com/
+https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+https://www.vectorlogo.zone/
+
+Websites abt ReadME:
+https://dev.to/milkshakegum/i-made-the-best-github-readme-ever-42bd
