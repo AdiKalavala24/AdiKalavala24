@@ -36,13 +36,6 @@ I like to code a simple pygame every once in a while and play it
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=AdiKalavala24&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📶 Socials
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
 ### ✍️ Favorite Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
